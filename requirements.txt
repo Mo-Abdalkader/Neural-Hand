@@ -1,0 +1,26 @@
+# Advanced Gesture Control System - Requirements
+# Python 3.8+ required
+
+# Core GUI Framework
+customtkinter>=5.2.0
+
+# Computer Vision & Machine Learning
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# System Integration
+pyautogui>=0.9.54
+
+# Image Processing
+Pillow>=10.0.0
+
+# Development & Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional Performance Tools
+# memory-profiler>=0.61.0
+# py-spy>=0.3.14
